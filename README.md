@@ -52,3 +52,32 @@ A search-based program that finds the shortest path between two actors using **B
    ```bash
    git clone [https://github.com/LPRamos1/CS50_AI.git](https://github.com/LPRamos1/CS50_AI.git)
    cd CS50_AI
+
+2. **Navigate to a project and install dependencies:**
+   ```bash
+   cd 02_Knowledge/minesweeper
+   pip install -r requirements.txt
+
+3. **Run the agent:**
+    ```bash
+   python runner.py
+
+
+## 📜 Academic Integrity & License
+
+> [!IMPORTANT]
+> **Academic Honesty:** This repository is intended for portfolio demonstration and educational documentation only. In accordance with Harvard University's CS50 Academic Honesty policy, these solutions should **not** be used to complete assignments. 
+> 
+> All problem set specifications and base codes are property of Harvard University's CS50P course.
+
+---
+
+
+## 🎓 About the Certification
+**CS50AI** explores the mathematics and logic behind AI tools we use today. This repository shows my progress in moving from "traditional" programming to "intelligent" systems that can solve puzzles, navigate complex graphs, and make optimal decisions.
+
+
+## 📬 Contact Me
+
+- 📫 **Email:** [lucaspaolo.dev@gmail.com](mailto:lucaspaolo.dev@gmail.com)
+- 🔗 **LinkedIn:** [lucas-paolo-ramos](https://www.linkedin.com/in/lucas-paolo-ramos-16a693402/en)
